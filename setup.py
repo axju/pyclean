@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='pycleanup',
-      version='0.0.1',
+      version='0.0.2',
       description='Clean up your working directory.',
       long_description=readme(),
       keywords='Clean up',
