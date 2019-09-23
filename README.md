@@ -23,18 +23,18 @@ Install
 -------
 Uses pip to install.
 ```shell
-pip install pyclear
+pip install pycleanup
 ```
 
 Uses
 ----
 As command-line tool.
 ```shell
-pyclear --help
+pycleanup --help
 ```
 or
 ```shell
-python -m pyclear --help
+python -m pycleanup --help
 ```
 
 As python function
